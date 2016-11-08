@@ -1,1 +1,2 @@
-=2; echo £test
+<?p
+£test=2; echo £test
